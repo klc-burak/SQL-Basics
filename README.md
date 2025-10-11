@@ -1,5 +1,7 @@
 # SQL-Basics
 
+This repository focuses on SQL fundamentals and is not tied to a specific database, but examples are compatible with PostgreSQL, MySQL, SQL Server, and SQLite.
+
 A comprehensive collection of fundamental SQL examples that demonstrate how to query, manage, and manipulate databases effectively.  
 Each folder focuses on a specific SQL concept — from basic syntax and filtering to joins, aggregate functions, and database operations.
 
