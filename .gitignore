@@ -1,1 +1,9 @@
-desktop.ini 
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+# Output directories
+out/
